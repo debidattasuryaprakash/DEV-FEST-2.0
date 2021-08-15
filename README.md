@@ -13,7 +13,7 @@
 
 ##  :pushpin: Goals
 
-* __Project 2&#176;__ Life and Health above everything .
+* Life and Health above everything .
 * In this Project __Team 2&#176;__ took into consideration __factors__ such as:
  
      * __Energy Supply__  
