@@ -14,34 +14,8 @@
 ##  :pushpin: Goals
 
 * Life and Health above everything .
-* In this Project __Team 2&#176;__ took into consideration __factors__ such as:
- 
-     * __Energy Supply__  
-     * __Transport__
-     * __Buildings and Industry__
-     * __Population Growth__
-     * __Economic Growth__
-     * __Land and Industrial Emissions__
-     * __Carbon Removal__
-
-     along with various __sub-factors__ such as:
-
-     * __Use of Coal__
-     * __Renewable Resources__
-     * __New Zero Concept__
-     * __Carbon Price__
-     * __Energy Efficiency__
-     * __Afforestation__
-     * __Use of Technology for Carbon Remomal__ , etc.
- 
-* __Team 2&#176;__ has also given insights about existing green technologies such as:
- 
-     * __FuelGems__
-     * __Climeworks__
-     * __Terramera__
-     * __CarbonCure__
- 
-  which are working efficiently towards __Net-Zero Carbon__ , __Carbon Neutrality__ or simply __Carbon Removal__.
+* Faster and efficient mode of connections between the patient and ambulances.
+* Large scale initiatives will create  a huge amount  of job oppurtunities in solar panel making companies .
 
 * __Team 2&#176;__ has used [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=21.8.0) to simulate the __optimal solution__ which is __practical__ and __achievable__. En-ROADS is a __transparent simulator__ developed by Climate Interactive, Ventana Systems, and __MIT__ Sloan and has been __calibrated against__ a wide range of existing __integrated__ assessment, __climate and energy models__.
 
