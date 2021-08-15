@@ -17,7 +17,13 @@
 * Faster and efficient mode of connections between the patient and ambulances.
 * Large scale initiatives will create  a huge amount  of job oppurtunities in solar panel making companies .
 
-* __Team 2&#176;__ has used [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=21.8.0) to simulate the __optimal solution__ which is __practical__ and __achievable__. En-ROADS is a __transparent simulator__ developed by Climate Interactive, Ventana Systems, and __MIT__ Sloan and has been __calibrated against__ a wide range of existing __integrated__ assessment, __climate and energy models__.
+
+## Execution
+### Detailed Structure
+* Low cost emergency boards displaying the type of emergency vehicle(i.e., ambulance, police department vehicles and fire extinguishing vehicles)and the direction to turn at turns.
+* Use of solar power to provide sun as a source of energy into the boards and run by solar energy.
+* Efficient build up of solar panels for execution of maximum sunlight incident on the solar panel.
+* Use of convex lenses(low cost) or right angled prisms(high cost) in order to build high-production of electricity through sunlight.
 
 ##  :pushpin: Simulation-GIF
 ![En-ROADS Simulation](public/simulation.gif)
