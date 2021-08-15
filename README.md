@@ -11,7 +11,7 @@
 #### Setting up emergency points at each accumulated conjunctions to avoid the risk of line in both  the case of people driving on the road and the people who called for emergency .
 
 
-##  :pushpin: Problem Solution
+##  :pushpin: Goals
 
 * __Project 2&#176;__ has __simulated__ to design the most __opitimal scenario__ to restrain the rise in global temperature due to global warming.
 * In this Project __Team 2&#176;__ took into consideration __factors__ such as:
