@@ -36,7 +36,9 @@
 
 
 ##  :pushpin: Main Concepts
-  * FRESNEL LENS SETUP
-  * CONVEX LENS SETUP
-  * THEORETICAL MODELLING
-  * rIGHT ANGLED PRISM SETUP 
+  * FRESNEL LENS SETUP--The Fresnel lens setup is comprised of a Fresnel lens mounted 5 cm above the solar cell. The solar cell is placed 5 cm under a Fresnel lens measuring 5 cm × 5 cm with a measured optical efficiency of 96.2% as measured using an irradiance meter and sourcemeter. Additionally, the lens has an estimated acceptance angle of 84.7 to 101.6° relative to the lens surface as measured with a laser pointer and a protractor.
+  * CONVEX LENS SETUP--A convex lens with a diameter of 5 cm, a focal length of 10 cm, and an estimated acceptance angle of 83.7 to 97.5° relative to the lens surface was selectively. It was mounted at a fixed height of 5 cm above the Fresnel lens using the iron stand and iron clamp.
+  * THEORETICAL MODELLING--Values for solar elevation at every hour during the testing period were retrieved from the University of Oregon Solar Calculator. Since the convex lens has an acceptance angle of 83.7°–97.5° relative to the lens surface and the Fresnel lens has an acceptance angle of 80.4°–101.6° relative to the lens surface, the lenses can only function as concentrators when the Solar Elevation falls within the acceptance angle. The hourly solar elevations were compared with this angle, yielding a maximum estimated time frame of sometime between 12:20 and 13:20.
+  * RIGHT ANGLED PRISM SETUP--The device works by splitting sunlight into four bands. Inside the prism, solar cells use a particular type of semi-conductor material, such as silicon, to optimally convert a particular band of sunlight into electricity.
+
+The prism also uses high-purity glass and a special filter to help steer the sunlight so it stays mostly trapped inside, eliminating wastage. 
