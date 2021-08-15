@@ -33,3 +33,10 @@
   * AUTOMATION
   * https://traffic-simulation.de/onramp.html (SIMULATOR)
   * TRACK PLANNING
+
+
+##  :pushpin: Main Concepts
+  * FRESNEL LENS SETUP
+  * CONVEX LENS SETUP
+  * THEORETICAL MODELLING
+  * rIGHT ANGLED PRISM SETUP 
