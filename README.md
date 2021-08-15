@@ -46,3 +46,10 @@
   * Cost of installation at a major level could be too high to be sustainable.
   * As we are using solar energy it may not work properly in rainy seasons or discrete sunlight regions.
   * Making people aware of the working of the system
+
+
+## 📌 Hall Of Contributors
+
+<a href="https://github.com/debidattasuryaprakash/DEV-FEST-2.0/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=debidattasuryaprakash/DEV-FEST-2.0" />
+</a>
