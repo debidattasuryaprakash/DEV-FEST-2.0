@@ -13,7 +13,7 @@
 
 ##  :pushpin: Goals
 
-* __Project 2&#176;__ has __simulated__ to design the most __opitimal scenario__ to restrain the rise in global temperature due to global warming.
+* __Project 2&#176;__ Life and Health above everything .
 * In this Project __Team 2&#176;__ took into consideration __factors__ such as:
  
      * __Energy Supply__  
