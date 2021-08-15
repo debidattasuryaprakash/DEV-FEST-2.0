@@ -28,24 +28,8 @@
 ##  :pushpin: Simulation-GIF
 ![VEHICLE STIMULATION](photos/Screen-Recording-_16-08-2021-01-34-06_.gif)
 
-##  :pushpin: Site-Preview-GIF
-![Website-Preview-GIG](public/site-demo.gif)
-
 ##  :pushpin: Tech Stack and Resources
   
-  * HTML
-  * CSS
-  * JS
-  * [En-ROADS](https://www.climateinteractive.org/tools/en-roads/) SIMULATOR
-
-## :pushpin: Hall Of Contributors
-
-Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<a href="https://github.com/The-CODE-Plus-Plus-Community/2-Degree-HackACode/contributors">
-  <img src="https://contrib.rocks/image?repo=The-CODE-Plus-Plus-Community/2-Degree-HackACode" />
-</a>
+  * AUTOMATION
+  * https://traffic-simulation.de/onramp.html (SIMULATOR)
+  * TRACK PLANNING
