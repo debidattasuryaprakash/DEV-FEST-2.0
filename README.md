@@ -26,7 +26,7 @@
 * Use of convex lenses(low cost) or right angled prisms(high cost) in order to build high-production of electricity through sunlight.
 
 ##  :pushpin: Simulation-GIF
-![En-ROADS Simulation](public/simulation.gif)
+![VEHICLE STIMULATION](public/simulation.gif)
 
 ##  :pushpin: Site-Preview-GIF
 ![Website-Preview-GIG](public/site-demo.gif)
