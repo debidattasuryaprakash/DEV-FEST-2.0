@@ -1,6 +1,6 @@
 # :pushpin:  E-TROOPS 🚨
 
-<img src="./public/save-earth.webp" alt="Save Earth" height="400" align="right">
+<img src="./photos/roadmap.jpg" alt="Save Earth" height="400" align="right">
 
 ## 🌟 Our Motto
 
