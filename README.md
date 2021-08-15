@@ -6,12 +6,13 @@ Arrival at emergency without any dependency
 
 Setting up emergency points at each accumulated conjunctions to avoid the risk of line in both  the case of people driving on the road and the people who called for emergency .
 
-## Getting Started
+## IDEATION
 
 ### Goals
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Life and Health above everything .
+* Faster and efficient mode of connections between the patient and ambulances.
+* Large scale initiatives will create  a huge amount  of job oppurtunities in solar panel making companies .
 
 ### Installing
 
@@ -60,104 +61,3 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
