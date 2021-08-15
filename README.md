@@ -1,6 +1,6 @@
 # :pushpin:  E-TROOPS 🚨
 
-<img src="./photos/roadmap.png" alt="Save Earth" width="500" height="400" align="right">
+<img src="./photos/roadmap.png" alt="Save Earth" width="650" height="400" align="right">
 
 ## :pushpin: Our Pledge
 
