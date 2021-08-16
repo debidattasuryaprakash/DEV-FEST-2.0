@@ -8,7 +8,7 @@
 
 ## :pushpin: Introduction
 
-#### Setting up emergency points at each accumulated conjunctions to avoid the risk of line in both  the case of people driving on the road and the people who called for emergency .
+#### Setting up emergency points at each accumulated conjunctions to avoid the risk of line in both the case of people driving on the road and the people who are called for emergency .
 
 
 ##  :pushpin: Goals
@@ -53,3 +53,4 @@
 <a href="https://github.com/debidattasuryaprakash/DEV-FEST-2.0/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=debidattasuryaprakash/DEV-FEST-2.0" />
 </a>
+
