@@ -54,6 +54,6 @@
 ## 📌 Hall Of Contributors
 
 <a href="https://github.com/debidattasuryaprakash/DEV-FEST-2.0/contributors">
-  <img src="https://contrib.rocks/image?repo=Abhishek-723/DEV-FEST-2.0" />
+  <img src="https://contrib.rocks/image?repo=subrat37/DEV-FEST-2.0" />
 </a>
 
