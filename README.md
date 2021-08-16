@@ -53,6 +53,6 @@
 <a href="https://github.com/debidattasuryaprakash/DEV-FEST-2.0/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=debidattasuryaprakash/DEV-FEST-2.0" />
 </a>
-<a href="https://github.com/Abhishek-723/DEV-FEST-2.0">
-
+<a href="https://github.com/Abhishek-723">
+  <img src="https://github.com/Abhishek-723/DEV-FEST-2.0/blob/main/photos/photo2.jpg" />
 </a>
